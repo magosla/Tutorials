@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Learners</string>
+    <string name="name">Name</string>
+    <string name="duration">Duration</string>
+    <string name="save">Save</string>
+    <string name="email">Email</string>
+    <string name="full_name">Full name</string>
+    <string name="no_available_student">No available student</string>
+    <string name="add_student">Add Student</string>
+    <string name="view_students">View Students</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="unregister">Unregister</string>
+    <string name="duration_">Duration: %d min(s)</string>
+    <string name="student_deleted">Student (%s) deleted</string>
+    <string name="all_field_required">All fields required</string>
+    <string name="student_updated">Student updated</string>
+    <string name="student_not_updated">Student not updated</string>
+    <string name="student_created">Student created</string>
+    <string name="student_not_created">Student not created</string>
+    <string name="students">Students</string>
+    <string name="student">Student</string>
+    <string name="edit_student">Edit Student</string>
+    <string name="loading_student_data">Loading student data…</string>
+    <string name="no_record_found">No record found</string>
+</resources>
